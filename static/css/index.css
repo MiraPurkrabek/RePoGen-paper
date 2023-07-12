@@ -79,8 +79,8 @@ body {
   }
   
   .author-block {
-    font-size: 16px;
-    padding: 0 5px;
+    /* font-size: 16px;
+    padding: 0 5px; */
     display: inline-block;
   }
   
